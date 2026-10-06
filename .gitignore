@@ -1,0 +1,20 @@
+# Target build output
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Embedded Tomcat & Server logs
+tomcat.*/
+*.log
+
+# IDE & Editor settings
+.settings/
+.project
+.classpath
+.factorypath
+
+# OS files
+.DS_Store
+Thumbs.db
